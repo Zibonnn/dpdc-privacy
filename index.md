@@ -9,4 +9,4 @@ DPDC Balance Checker does not collect, transmit, or share any personal data.
 - No analytics, no tracking, no account required.
 - Uninstalling the app permanently deletes all stored data.
 
-**Contact:** zibonnn@gmail.com
+**Contact:** zibon@duck.com
