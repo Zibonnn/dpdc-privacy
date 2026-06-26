@@ -1,4 +1,4 @@
-# Privacy Policy ‚Äî DPDC Balance Checker
+# Privacy Policy - DPDC Balance Checker
 
 **Last updated:** June 2026
 
